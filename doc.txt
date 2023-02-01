@@ -1,0 +1,19 @@
+global vars:
+    running_game
+    running_inventory
+    running_achievement
+    running_settings
+    running_menu
+
+
+menu:
+    game
+    inventory
+    achievements
+    settings
+    exit
+
+
+player:
+    X - X * 0.2
+    Y - Y * 0.6
